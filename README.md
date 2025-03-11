@@ -21,6 +21,8 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 
 ## Week 2
 
+* [Lecture Recording](https://usc.zoom.us/rec/share/aM2GQkc5S2QkidpWNQZB1rjDxcUO8qqcl-zSpFasSWiRorI2D0HhBgDXF5nvwgQK.caQX8IKfVhd8LACR?startTime=1616549879000)
+
 ### Google Colab Notebooks (Please Make Sure to Save Your Own Copy)
 * [Regex Practice Part II](https://colab.research.google.com/drive/1XyN7gs-IB-ZCaEIkAT9Bwwi83A0QFP1j?usp=sharing)
 * [Text Encodings](https://colab.research.google.com/drive/1JsvzZ7zKOS0iy32_4utsvyXp6CVQiKWn?usp=sharing)
@@ -29,17 +31,34 @@ Prior to Week 1's session, please [join the Slack workspace](https://join.slack.
 
 ## Week 3
 
+* [Lecture Recording](https://usc.zoom.us/rec/share/v7ZKjlZOLv-YPmyjuJieczGvC3CUsHr9KFl4zvMp_s5A6zAUCiDnLK0IYad6WEIP.Quisagp0VQUVtH-H?startTime=1617154333000)
+
+### Google Colab Notebooks
+* [Probabilities and N-Gram Language Models](https://colab.research.google.com/drive/1ZLUQYqSfpIgF4oOGFgXBczkCrRGkMtjL?usp=sharing)
+* [Naive Bayes](https://colab.research.google.com/drive/1hu7S1_4T3NfmQuRFvjem4oEJbWw4mX3Q?usp=sharing)
+* [Cosine Similarity, PMI, Collocation, TF-IDF](https://colab.research.google.com/drive/1UzPa_LobkrTx8TyekeDwpxfvCmJOf_wF?usp=sharing)
+* [Regex Practice](https://colab.research.google.com/drive/1xQY4SzoJJN7FjqTcUWgFnDEq4kxWGTvF?usp=sharing)
 
 ## Week 4
 
+### Google Colab Notebooks
+* [Independence](https://colab.research.google.com/drive/1yyQ12ZI6PRtdyga6nyEOrJV1LmEp1eAR?usp=sharing)
+* [Dimensionality Reduction](https://colab.research.google.com/drive/1cV73JTMmigA0IT7wxpABn-zMUtWJFB-x?usp=sharing)
+* [Advanced Regex](https://colab.research.google.com/drive/1KWmT7L9UZZ3GkJWQEDp1r9moT1aF8r8M?usp=sharing)
+
 
 ## Week 5
-
+* [Pandas Regex Replace and Capture Groups](https://colab.research.google.com/drive/1ta0FiGxNY1WLc9VOf0Yl8gO7utp1TR-R?usp=sharing)
 
 ## Week 6
 
 
 ## Week 7
-
+* [Tips and Tricks with String Matching](https://colab.research.google.com/drive/1zlNn20OUx1dJwN8oyLb6Q4OpPoRoOTcC?usp=sharing)
+* [Using TF-IDF Weighted Word Embeddings](https://colab.research.google.com/drive/1CZa723-_mDmNJPG2oiExgWYF9nqbueeY?usp=sharing)
+* [Word2Vec Part II](https://colab.research.google.com/drive/1IYWXde5jQxD-4k0hGy7mkSRh_kueoohX?usp=sharing)
+* [Deep Learning with Word Embeddings](https://colab.research.google.com/github/ychennay/dso-560-nlp-text-analytics-SPRING-2021/blob/main/Week%207/Deep%20Learning%20with%20Word%20Embeddings.ipynb#scrollTo=TR0hsaNmN5xc)
 
 ## Week 8
+* [RNNs and LSTMs with NLP Classification Tasks](https://colab.research.google.com/drive/1K8-FOCb64oqtyLjWMvPMTlhbRPn53rsj?usp=sharing)
+* [Attention Models](https://colab.research.google.com/drive/1qV6R-CoC7ry8gBJzcNqRExwB4eO9wP8m?usp=sharing)
